@@ -1,0 +1,17 @@
+{
+    "1001": {
+        "nombre": "Ana Gomez",
+        "contacto": "ana@correo.com",
+        "sancionado": false
+    },
+    "1002": {
+        "nombre": "carlos Perez",
+        "contacto": "2001234567",
+        "sancionado": false
+    },
+    "1003": {
+        "nombre": "sebastian mendoza",
+        "contacto": "smendozaviloria9@gmail.com",
+        "sancionado": false
+    }
+}

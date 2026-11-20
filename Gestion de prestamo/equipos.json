@@ -1,0 +1,12 @@
+{
+    "EQ-01":{
+        "marca": " lenovo",
+        "modelo": "Thinkpad E14",
+        "estado" : "Disponible"
+    },
+    "EQ-02" : {
+        "marca": "hp",
+        "modelo": "ProBook 440",
+        "estado": "Disponible"
+    }
+}
